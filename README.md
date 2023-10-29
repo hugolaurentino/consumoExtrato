@@ -38,7 +38,7 @@ Objetos, Lista (Array) com objetos , for..of, ternário, template string e ToFix
 ### Sobre
 
   <p align= 'justify'>
-  Neste programa que simula uma compra em um supermercado, au passar no caixa os intens é imprimido o extrato.
+  Neste programa que simula uma compra em um supermercado, ao passar no caixa os intens é imprimido o extrato.
 
   ```
     Olá Hugo seus item:
